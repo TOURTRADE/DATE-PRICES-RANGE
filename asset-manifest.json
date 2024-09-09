@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TOURTRADE/DATE-PRICES-RANGE.git/static/css/main.05e2247c.css",
-    "main.js": "/TOURTRADE/DATE-PRICES-RANGE.git/static/js/main.b05504a6.js",
-    "index.html": "/TOURTRADE/DATE-PRICES-RANGE.git/index.html",
-    "main.05e2247c.css.map": "/TOURTRADE/DATE-PRICES-RANGE.git/static/css/main.05e2247c.css.map",
-    "main.b05504a6.js.map": "/TOURTRADE/DATE-PRICES-RANGE.git/static/js/main.b05504a6.js.map"
+    "main.css": "/TOURTRADE/DATE-PRICES-RANGE/static/css/main.05e2247c.css",
+    "main.js": "/TOURTRADE/DATE-PRICES-RANGE/static/js/main.b05504a6.js",
+    "index.html": "/TOURTRADE/DATE-PRICES-RANGE/index.html",
+    "main.05e2247c.css.map": "/TOURTRADE/DATE-PRICES-RANGE/static/css/main.05e2247c.css.map",
+    "main.b05504a6.js.map": "/TOURTRADE/DATE-PRICES-RANGE/static/js/main.b05504a6.js.map"
   },
   "entrypoints": [
     "static/css/main.05e2247c.css",
